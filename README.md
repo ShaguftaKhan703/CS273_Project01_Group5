@@ -1,6 +1,7 @@
 # CS273_Project01_Group5
 
 **School Information:**
+
 Class: CS 273
 
 School year: Fall 2026
