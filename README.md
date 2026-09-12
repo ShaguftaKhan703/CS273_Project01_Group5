@@ -1,6 +1,9 @@
 # CS273_Project01_Group5
 
-School year and class name: Fall 2026, CS 273
+**School Information:**
+Class: CS 273
+
+School year: Fall 2026
 
 University: San José State University
 
