@@ -2,7 +2,7 @@
 
 School year and class name: Fall 2026, CS 273
 
-University: San Jose
+University: San José State University
 
 Group Members: Anushka Chandrashekar, Shagufta Khan
 
